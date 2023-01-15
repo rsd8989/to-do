@@ -1,1 +1,2 @@
 firt line in first file
+second line in first file
