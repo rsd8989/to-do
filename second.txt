@@ -1,2 +1,6 @@
 added first line in remote second
+<<<<<<< HEAD
 secodn lihne added in sseond file by lcoal
+=======
+secoid line added in secod file
+>>>>>>> 7ef0550fe5acca07cc169e7edf2f02c3c4ea26d5
