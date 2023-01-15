@@ -2,3 +2,4 @@ firt line in first file
 second line in first file
 third line
 fourth line added again
+fifth line added
